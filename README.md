@@ -20,7 +20,7 @@
 
 ## Deploying
 
-### Deploy on [Heroku](https://heroku.com)
+### Deploy on [Heroku](https://github.com/missionapp5000/google-drive-telegram-bot?organization=missionapp5000&organization=missionapp5000)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Installation
