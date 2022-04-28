@@ -10,17 +10,20 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "Get it from @BotFather",
+      "value": "5382216715:AAE2kwQKc3UY2RQlI-WQRbwMlOj68TSB-ZM"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "Your API_ID, Get it from https://my.telegram.org/apps",
+      "value": "17972120"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "Your API_HASH, Get it from https://my.telegram.org/apps",
+      "value": "9eb1ab52fc7fe6b96ea7bc34794d8497"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "value": "1276111220"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
@@ -32,11 +35,11 @@
     },
     "G_DRIVE_CLIENT_ID": {
       "description": "Google Drive Client ID from Google Cloud Platform",
-      "value": "202264815644.apps.googleusercontent.com"
+      "value": "209328045730-n13spgnhbodkgdn8kj2ve8jl5g3lb6gu.apps.googleusercontent.com"
     },
     "G_DRIVE_CLIENT_SECRET": {
       "description": "Google Drive Client Secret from Google Cloud Platform",
-      "value": "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
+      "value": "Q0FsOxrqhAymZEcCGH-3gqvs"
     }
   },
    "addons": [{
